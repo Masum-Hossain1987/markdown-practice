@@ -71,7 +71,7 @@ this is an italic text_
 --- <br/>
  |name|email |
  |----|------| 
-|MD.Masum Hossain|masummiah.dev@gmail.com|
+| MD.Masum Hossain || masummiah.dev@gmail.com |
 
 
 
