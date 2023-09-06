@@ -1,0 +1,17 @@
+---Markdown---
+what & why README.MD:
+How to make comment
+Normal text & new line
+Horizontal rule
+Headings
+Paragraph
+italic
+Bold
+Strikethrough
+inline code block
+Multiple line code block
+list
+Link
+Image
+Emoji
+Table
